@@ -1,0 +1,1 @@
+INSERT INTO t2 VALUES (12, 'Test2');

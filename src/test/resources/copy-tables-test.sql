@@ -1,0 +1,1 @@
+SELECT pk, name FROM T1:INSERT INTO T2 VALUES (?, ?)
